@@ -152,8 +152,6 @@ python main.py
 2. **Execution Example**:
    - Below is an example showing nodes, edges, and the computed shortest path:
 
-![Execution Example](path/to/screenshot.png)
-
 ---
 
 ## Additional Task: Poisoned Reverse 🛠️
